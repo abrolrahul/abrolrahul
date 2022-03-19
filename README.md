@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abrolrahul
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Java & Kotlin
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rahul.abrol@priceline.com
 
 <!---
